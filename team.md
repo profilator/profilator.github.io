@@ -3,6 +3,8 @@ layout: page
 title: Our team
 ---
 
- -  Lorem
- -  Ipsum
- -  Dolor
+ - Aleksander Kazecki
+ - Łukasz Kotlewski
+ - Patryk Dejewski
+ - Kacper Wolkiewicz
+ - Szymon Saletnik

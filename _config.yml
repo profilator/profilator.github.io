@@ -1,4 +1,3 @@
-
 url: "https://profilator.github.io"
 baseurl: ""
 
@@ -7,7 +6,6 @@ title: Profilator
 description: Lorem ipsum dolor
 
 navbar-links:
-  About: "about"
   Documentation:
     - GitHub: "https://github.com/profilator"
   Team: "team"
@@ -43,8 +41,6 @@ url-pretty: "profilator.github.io"
 
 excerpt_length: 50
 
-# Character used to separate site title and description in HTML document title
-# and RSS feed title
 title-separator: "-"
 
 timezone: "America/Vancouver"
