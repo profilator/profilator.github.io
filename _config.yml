@@ -3,10 +3,11 @@ baseurl: ""
 
 title: Profilator
 
-description: Lorem ipsum dolor
+description: Profilator is a Flask application for generating user's Twitter profile report. 
 
 navbar-links:
   Documentation:
+    - User Guide: "user-guide"
     - GitHub: "https://github.com/profilator"
   Team: "team"
 
